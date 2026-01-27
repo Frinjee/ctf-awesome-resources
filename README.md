@@ -343,6 +343,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Websec.fr](http://websec.fr/) - Web challenges platform.
  - [WeChall](https://www.wechall.net/active_sites) - Challenge sites directory & forum.
  - [YEHD 2015](https://2015-yehd-ctf.meiji-ncc.tech/) - YEHD CTF 2015 online challenges.
+ - [8kSec AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) - Challenges to test AI, ML, and LLMs  knowledge, along with practical exploitation techniques.
 
 *Self-hosted CTFs*
 
